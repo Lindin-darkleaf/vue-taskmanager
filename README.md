@@ -10,15 +10,8 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
+## Подключаем библиотеку css 
 ```
-npm run lint
+npm install vue bootstrap-vue bootstrap
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
