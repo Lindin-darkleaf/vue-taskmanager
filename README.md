@@ -1,17 +1,23 @@
-# taskmanager
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
+# taskmanager Установка!
+## Клонируем репозиторий
+Его ссылка
+https://github.com/Purt09/vue-taskmanager.git
 
 ## Подключаем библиотеку css 
 ```
 npm install vue bootstrap-vue bootstrap
 ```
+
+### Запускаем сайт
+```
+npm run serve
+```
+
+### Работает через гит, поэтому процесс работы (Дополни командами)
+1) Создай ветку 
+2) Переключись на новую ветку. 
+3) Сделай свои задачи
+4) Отправь ветку на гитхаб
+5) Переключись обратно
+6) Удали ветку, которую создавал
+7) Я дальше сдлеаю сам.
